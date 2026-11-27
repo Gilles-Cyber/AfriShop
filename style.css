@@ -99,3 +99,31 @@ nav a:hover {
   font-weight: bold;
   color: #d9772b;
 }
+
+/* Contact et pied de page */
+#contact {
+  padding: 30px 20px;
+  text-align: center;
+  background: #f7f5f0;
+}
+
+#contact h2 {
+  margin-top: 0;
+  color: #25543b;
+}
+
+#contact p {
+  margin: 6px 0;
+  color: #444;
+}
+
+footer {
+  padding: 14px;
+  text-align: center;
+  color: white;
+  background: #25543b;
+}
+
+footer p {
+  margin: 0;
+}
