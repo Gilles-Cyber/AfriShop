@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Café local">
+  <rect width="320" height="200" fill="#d8dfc6"/>
+  <ellipse cx="160" cy="160" rx="75" ry="14" fill="#b9a6cf"/>
+  <path d="M110 90 L210 90 L200 150 Q160 168 120 150 Z" fill="#a58cc4"/>
+  <path d="M208 102 Q238 104 232 126 Q226 144 202 138" fill="none" stroke="#a58cc4" stroke-width="9"/>
+  <ellipse cx="160" cy="90" rx="50" ry="10" fill="#5a3520"/>
+  <path d="M140 72 Q132 60 142 50 M160 70 Q152 56 162 44 M180 72 Q172 60 182 50" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+</svg>

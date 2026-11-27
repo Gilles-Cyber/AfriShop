@@ -58,3 +58,44 @@ nav a:hover {
 .bouton:hover {
   background: #1a3d2a;
 }
+
+/* Catalogue de produits */
+#produits {
+  padding: 40px 20px;
+  text-align: center;
+  background: #f7f5f0;
+}
+
+#produits h2 {
+  margin-top: 0;
+  color: #25543b;
+}
+
+.cartes {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.carte {
+  flex: 0 0 300px;
+  padding: 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+}
+
+.carte img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.carte h3 {
+  margin: 10px 0 4px;
+  color: #25543b;
+}
+
+.prix {
+  font-weight: bold;
+  color: #d9772b;
+}

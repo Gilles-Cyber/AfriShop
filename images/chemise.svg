@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Chemise africaine">
+  <rect width="320" height="200" fill="#e6c49a"/>
+  <path d="M120 45 L140 35 Q160 50 180 35 L200 45 L235 70 L218 95 L200 85 L200 170 L120 170 L120 85 L102 95 L85 70 Z" fill="#d9772b"/>
+  <path d="M120 85 L200 85 M120 115 L200 115 M120 145 L200 145" stroke="#2f6b45" stroke-width="8"/>
+  <path d="M140 35 Q160 50 180 35 L170 60 L160 52 L150 60 Z" fill="#f2e3c6"/>
+  <circle cx="160" cy="100" r="4" fill="#f2e3c6"/>
+  <circle cx="160" cy="130" r="4" fill="#f2e3c6"/>
+</svg>
