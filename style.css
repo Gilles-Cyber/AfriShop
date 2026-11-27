@@ -128,3 +128,20 @@ footer {
 footer p {
   margin: 0;
 }
+
+/* Petits écrans : menu sur deux lignes */
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+    gap: 8px;
+    padding: 14px 16px;
+  }
+
+  nav {
+    gap: 20px;
+  }
+
+  #accueil h1 {
+    font-size: 1.9rem;
+  }
+}
